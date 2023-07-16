@@ -1,0 +1,16 @@
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.csproj.AssemblyReference.cache
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.GiaoDien.resources
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.Properties.Resources.resources
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.csproj.GenerateResource.cache
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.csproj.CoreCompileInputs.cache
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\bin\Debug\SanBanh.exe.config
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\bin\Debug\SanBanh.exe
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\bin\Debug\SanBanh.pdb
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.exe
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.pdb
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.DangNhap.resources
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.QuanLyDatSan.resources
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.FrmQuanLyNhanSu.resources
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.frmDichVu.resources
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.frmQuanLySan.resources
+D:\sang\hk5\.NET\SanBanh\SanBanh\SanBanh\obj\Debug\SanBanh.frmTinhTien.resources
